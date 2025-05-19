@@ -1,4 +1,4 @@
-# LeetCode_problems
+# LeetCode_Solutions
 
 This repository contains my solutions to LeetCode problems, organized by programming language and difficulty.
 📂 Folder Structure
